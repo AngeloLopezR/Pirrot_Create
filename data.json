@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nombre":"Pulsera",
+        "precio": 25,
+        "img":
+        "https://ripleype.imgix.net/http%3A%2F%2Fs3.amazonaws.com%2Fimagenes-sellers-mercado-ripley%2F2021%2F06%2F09194512%2FPUS-4899.png?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=a3f722f891add70700bfd5d5e0e4de04"
+        ,
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre":"Chaleco",
+        "precio": 80,
+        "img":
+        "https://cdnx.jumpseller.com/urbenmood/image/7870690/resize/1200/1200?1583355639"
+        
+        ,
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre":"Maleta",
+        "precio": 40,
+        "img":
+        "https://m.media-amazon.com/images/I/61WguNuTNML._UF1000,1000_QL80_.jpg"
+        ,
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre":"Bolso",
+        "precio": 70,
+        "img":
+        "https://marruecos1986.co/cdn/shop/products/MARRUECOS_1986_BOLSO_CUERO_126220_MIELBEIGENE_1_600x.png?v=1670010438",
+        "cantidad": 1
+    }
+    
+    ]
